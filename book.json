@@ -2,8 +2,8 @@
     "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz"],
     "language": "es",
     "variables": {
-        "title": "______________",
-        "author": "______________",
+        "title": "Mobile Learning y Realidad Aumentada",
+        "author": " Aulablog",
         "collaborators": [
             { "name": "_________", "edited": "_____________" }
         ]
