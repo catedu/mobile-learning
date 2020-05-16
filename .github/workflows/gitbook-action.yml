@@ -20,3 +20,4 @@ jobs:
         gitbook_epub_name: 'mobile-learning'
         gitbook_mobi: true
         gitbook_mobi_name: 'mobile-learning'
+        
